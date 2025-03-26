@@ -1,0 +1,4 @@
+msal==1.32.0
+fastapi==0.115.12
+uvicorn==0.34.0
+dotenv==0.9.9
